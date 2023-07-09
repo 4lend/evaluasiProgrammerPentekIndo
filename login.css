@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    text-decoration: none;
+    letter-spacing: 2px;
+    word-spacing: 250px;
+    font-size: 50px;
+    margin: 0px;
+    font-family: "arial";
+    font-weight: bold;
+}
+
+div li {
+    color: green;
+}
+
+div.navbar {
+    
+}
+
+.name {
+    word-spacing: 0px;
+}
+
+.navbar {
+    box-sizing: border-box;
+    background: blue;
+    overflow: hidden;
+    list-style: none;
+    text-align: center;
+    padding: 35px;
+}
+
+.navbar li {
+    font-siblue50px;
+    font-color: white;
+    display: inline;
+}
+
+div .form {
+    font-size: 10px;
+}
